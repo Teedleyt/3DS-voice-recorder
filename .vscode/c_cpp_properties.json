@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "Nintendo 3DS",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/devkitPro/libctru/include",
+                "C:/devkitPro/portlibs/3ds/include",
+                "C:/devkitPro/devkitARM/arm-none-eabi/include"
+            ],
+            "defines": [
+                "__3DS__"
+            ],
+            "compilerPath": "C:/devkitPro/devkitARM/bin/arm-none-eabi-g++.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "linux-gcc-arm"
+        }
+    ],
+    "version": 4
+}

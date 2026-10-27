@@ -1,0 +1,7 @@
+# Compiled files
+build/
+*.o
+*.elf
+*.3dsx
+*.cia
+*.smdh
